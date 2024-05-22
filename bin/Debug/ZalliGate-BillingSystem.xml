@@ -1,0 +1,191 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ZalliGate-BillingSystem
+</name>
+</assembly>
+<members>
+<member name="T:ZalliGate_BillingSystem.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ZalliGate_BillingSystem.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ZalliGate_BillingSystem.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSet.categoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSet.ordersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSet.productDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSet.staffDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSet.systemadminDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSet.transactionsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSet.categoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSet.ordersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSet.productRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSet.staffRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSet.systemadminRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSet.transactionsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSet.categoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSet.ordersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSet.productRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSet.staffRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSet.systemadminRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSet.transactionsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSetTableAdapters.categoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSetTableAdapters.ordersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSetTableAdapters.productTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSetTableAdapters.staffTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSetTableAdapters.systemadminTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSetTableAdapters.transactionsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ZalliGate_BillingSystem.zalligatedbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ZalliGate_BillingSystem.zalligatedbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ZalliGate_BillingSystem.zalligatedbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ZalliGate_BillingSystem.zalligatedbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ZalliGate_BillingSystem.zalligatedbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ZalliGate_BillingSystem.zalligatedbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ZalliGate_BillingSystem.zalligatedbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ZalliGate_BillingSystem.zalligatedbDataSetTableAdapters.TableAdapterManager.UpdateAll(ZalliGate_BillingSystem.zalligatedbDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ZalliGate_BillingSystem.zalligatedbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

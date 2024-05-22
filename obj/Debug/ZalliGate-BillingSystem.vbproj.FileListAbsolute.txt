@@ -1,0 +1,141 @@
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\bin\Debug\ZalliGate-BillingSystem.exe.config
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\bin\Debug\ZalliGate-BillingSystem.exe
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\bin\Debug\ZalliGate-BillingSystem.pdb
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\bin\Debug\ZalliGate-BillingSystem.xml
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\bin\Debug\Guna.UI.dll
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\bin\Debug\Guna.UI2.dll
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.vbproj.AssemblyReference.cache
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.Form1.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.Resources.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.vbproj.GenerateResource.cache
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.vbproj.CopyComplete
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.exe
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.xml
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.pdb
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.LoginForm.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\bin\Debug\MySql.Data.dll
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.POS.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.AdminDashboard.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.Products.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.ProductsPopUp.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.TransaparentBG.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.CheckOut.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.ZalliGateCheckOut.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.ProductUpdate.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.ProductDelete.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.CatDelete.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.Categories.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.CatPopUp.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.CatUpdate.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.Orders.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.OrderSearch.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.TransactionPerIndividual.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.TransactionsSearch.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.TransactionsPerMode.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.TransactionFrm.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\bin\Debug\ZalliGate-BillingSystem.exe.manifest
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\bin\Debug\ZalliGate-BillingSystem.application
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.exe.manifest
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.application
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\bin\Debug\ZalliGate-BillingSystem.exe.config
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\bin\Debug\ZalliGate-BillingSystem.exe.manifest
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\bin\Debug\ZalliGate-BillingSystem.application
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\bin\Debug\ZalliGate-BillingSystem.exe
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\bin\Debug\ZalliGate-BillingSystem.pdb
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\bin\Debug\ZalliGate-BillingSystem.xml
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\bin\Debug\Guna.UI.dll
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\bin\Debug\Guna.UI2.dll
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\bin\Debug\MySql.Data.dll
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.vbproj.AssemblyReference.cache
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.AdminDashboard.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.CatDelete.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.Categories.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.CatPopUp.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.CatUpdate.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.CheckOut.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.Form1.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.LoginForm.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.Resources.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.Orders.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.OrderSearch.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.POS.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.ProductDelete.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.Products.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.ProductsPopUp.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.ProductUpdate.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.TransactionPerIndividual.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.TransactionFrm.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.TransactionsPerMode.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.TransactionsSearch.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.TransaparentBG.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.ZalliGateCheckOut.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.vbproj.GenerateResource.cache
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.exe.manifest
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.application
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.vbproj.CopyComplete
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.exe
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.xml
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.pdb
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\bin\Debug\DGV Printer.dll
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.ProductSale.resources
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\bin\Debug\itextsharp.dll
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.exe.config
+C:\Users\Brian Bett\source\repos\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.OverallProductSale.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\bin\Debug\ZalliGate-BillingSystem.exe.config
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\bin\Debug\ZalliGate-BillingSystem.exe.manifest
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\bin\Debug\ZalliGate-BillingSystem.application
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\bin\Debug\ZalliGate-BillingSystem.exe
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\bin\Debug\ZalliGate-BillingSystem.pdb
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\bin\Debug\ZalliGate-BillingSystem.xml
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.vbproj.AssemblyReference.cache
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.exe.config
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.AdminDashboard.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.CatDelete.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.Categories.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.CatPopUp.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.CatUpdate.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.CheckOut.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.Form1.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.LoginForm.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.Resources.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.Orders.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.OrderSearch.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.OverallProductSale.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.POS.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.ProductDelete.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.Products.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.ProductSale.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.ProductsPopUp.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.ProductUpdate.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.TransactionPerIndividual.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.TransactionFrm.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.TransactionsPerMode.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.TransactionsSearch.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.TransaparentBG.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.ZalliGateCheckOut.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.vbproj.GenerateResource.cache
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.exe.manifest
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.application
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.vbproj.CopyComplete
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.exe
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.xml
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate-BillingSystem.pdb
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.AttendanceModule.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.CheckInPop.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.CheckOutPop.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\bin\Debug\MySql.Data.dll
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.AttendanceModule2.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.CheckInPop2.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.CheckOutPop2.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.MyAttendance.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.Shift2AttendanceReport.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.Shift1AttendanceReport.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.CashTransactions.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.MobileMoneyTransactions.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.BankTransactions.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.ElectronicTransactions.resources
+C:\Users\Felix Kipkirui\Desktop\ZalliPLC\ZalliGate-BillingSystem - Copy\ZalliGate-BillingSystem\obj\Debug\ZalliGate_BillingSystem.TransactionRoll.resources
